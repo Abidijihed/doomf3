@@ -1,0 +1,11 @@
+img{
+    width: 600px;
+    height: 600px;
+}
+#cardpc{
+    width: 400px !important;
+    height: 400px !important;
+}
+.fa-heart{
+margin-left: 80%;
+}
